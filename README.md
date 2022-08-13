@@ -35,8 +35,8 @@ Mobile Version
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/halderjoydeep/FM-Testimonials-grid)
-- Live Site URL: [Add live site URL here](https://halderjoydeep.github.io/FM-Testimonials-grid/)
+- Solution URL: [https://github.com/halderjoydeep/FM-Testimonials-grid](https://github.com/halderjoydeep/FM-Testimonials-grid)
+- Live Site URL: [https://halderjoydeep.github.io/FM-Testimonials-grid/](https://halderjoydeep.github.io/FM-Testimonials-grid/)
 
 ## My process
 
