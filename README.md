@@ -53,7 +53,7 @@ This is my first project using Grid layout. Grid is really so much powerful tech
 
 ### Useful resources
 
-- [Traversy Media](https://www.youtube.com/watch?v=0xMQfnTU6oo) - Brad Traversy helpmed me in learning Grid technique. I'm really thankful to him. This project is included in that tutorial
+- [Traversy Media](https://www.youtube.com/watch?v=0xMQfnTU6oo) - Brad Traversy's youtube videos helped me in learning Grid technique. I'm really thankful to him. This project is included in that tutorial
 
 ## Author
 
