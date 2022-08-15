@@ -46,6 +46,7 @@ Mobile Version
 - CSS custom properties
 - Flexbox
 - CSS Grid
+- jQuery
 
 ### What I learned
 
