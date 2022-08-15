@@ -171,6 +171,16 @@ body {
   .card:nth-of-type(5):hover {
     transform: translateX(10px);
   }
+
+  /* this will blur the cards even if cursor is between the gaps 
+  .card-grid:hover > .card:not(:hover) {
+    filter: blur(1px);
+  }
+  */
+
+  .card-blur {
+    filter: blur(1px);
+  }
 }
 
 /* Adding Animation */

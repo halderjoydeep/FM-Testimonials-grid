@@ -1,8 +1,8 @@
 $(".card").hover(
   function () {
-    $(this).siblings(".card").addClass("card-hover");
+    $(this).siblings(".card").addClass("card-blur");
   },
   $(".card").hover(function () {
-    $(this).siblings(".card").removeClass("card-hover");
+    $(this).siblings(".card").removeClass("card-blur");
   })
 );
