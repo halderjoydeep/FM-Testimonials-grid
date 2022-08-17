@@ -66,3 +66,4 @@ This is my first project using Grid layout. Grid is really so much powerful tech
 ## Acknowledgments
 
 As already mentioned in resources, I am really thankful to [Brad Traversy](https://github.com/bradtraversy/).
+Also I am really thankful to [Lucas](https://www.frontendmentor.io/profile/correlucas) for the custom design idea.
